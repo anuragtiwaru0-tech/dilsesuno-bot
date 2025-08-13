@@ -1,0 +1,1 @@
+https://huggingface.co/QuantFactory/vicuna-7b-v1.5-GGUF/resolve/3c3a7ac2466b083c9f1fae796f09207bcd7c03e7/vicuna-7b-v1.5.Q5_K_M.gguf
